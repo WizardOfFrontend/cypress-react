@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "integrationFolder": "cypress/e2e",
+  "defaultCommandtimeout": 6000,
+  "retires": {
+    "runMode": 3,
+    "openMode": 0
+  },
+  "experimentalStudio": true
+}
+
